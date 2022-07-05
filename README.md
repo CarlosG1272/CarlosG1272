@@ -44,44 +44,35 @@ Back: Node.js, Express
 DataBase: PostgreSQL y Sequelize.
 Deploy Back: https://dogappguerra.herokuapp.com/
 Deploy Front: https://individual-project-dogs-zeta.vercel.app/
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/back1.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog1.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog2.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog3.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog4.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog5.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog6.PNG)
-![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/dogApp/dog7.PNG)
+![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Dog1.png)
+![Dog](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Dog2.png)
 ## Food´s Universe 
 Food e-commerce developed with 4 other contributors that includes: product and category display, login, shopping cart, payment gateway, wish list, review posting, stock management, product and category creation forms, upload all kind of images, purchase history (orders), user management, edit profile, nested filters, voice search, autocomplete, dark theme.
 Front: React, Redux, Styled-components, Sass
 Back: MongoDB, mongoose, Express, cors, morgan, Paypal Api, Firebase, Cloudinary
 Deploy: https://food-fast-client.vercel.app/
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food1.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food2.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food3.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food4.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food5.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food6.PNG)
-![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/foodsUniverse/food7.PNG)
-## Multhi-Theme Calculator
-Calculadora que cuenta con varios temas de colores para escoger, las cuales son: Neón, Pastel, Galax, Formal. Además de guardar la preferencia seleccionada por el usuario en el localStorage.
-Front: React, CSS, Sass, Styled Components y localStorage.
-Deploy: https://carlosg1272.github.io/Multhi-Theme-Calculator/
-![calculator](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/calculator/calculator1.PNG)
-![calculator](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/calculator/calculator2.PNG)
-![calculator](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/calculator/calculator3.PNG)
-![calculator](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/calculator/calculator4.PNG)
+![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food1.png)
+![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food2.png)
+![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food3.png)
 ## Quote and Tip´s Generator
 A tip and quote generator by using an Api rest, with the change of phrase thanks to a button. It also has a dark theme and change of colors through transitions.
 Front: HTML. React, CSS, Sass y ApiFetch.
 Deploy Tip: https://carlosg1272.github.io/Tips-Generator/
-Deploy Quote: https://carlosg1272.github.io/Quote-Generator/
-![tips](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/tips.PNG)
-![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote1.PNG)
-![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote2.PNG)
-![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote3.PNG)
 
+Deploy Quote: https://carlosg1272.github.io/Quote-Generator/
+![tips](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/quote.png)
+## Crud Image Api 
+Api for image storage that I will use to complete and improve different pending projects I have, such as my weather or movies application. 
+This is done through the technologies: 
+Views: Express-Handlebars
+Back: Express, NodeJS
+DataBase: MongoDB, Cloudinary
+![api](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/CrudApi.png)
+## Multhi-Theme Calculator
+Calculadora que cuenta con varios temas de colores para escoger, las cuales son: Neón, Pastel, Galax, Formal. Además de guardar la preferencia seleccionada por el usuario en el localStorage.
+Front: React, CSS, Sass, Styled Components y localStorage.
+Deploy: https://carlosg1272.github.io/Multhi-Theme-Calculator/
+![calculator](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/calculator.png)
 # Contact
 Contact me and learn more about me: 
 <p>
