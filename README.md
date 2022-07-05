@@ -4,7 +4,7 @@
 
 
 <div>
-Full stack developer to Perú, I am a critical thinker and problem solver from a mathematical point of view due to my current engineering background. I enjoy constantly learning and challenging myself with complicated projects in order to overcome them through my 2 passions, programming and formal sciences.
+20 years old Full stack developer to Perú, I am a critical thinker and problem solver from a mathematical point of view due to my current engineering background. I enjoy constantly learning and challenging myself with complicated projects in order to overcome them through my 2 passions, programming and formal sciences.
 </div>
 
 
