@@ -7,9 +7,9 @@
 Full stack developer to Perú, I am a critical thinker and problem solver from a mathematical point of view due to my current engineering background. I enjoy constantly learning and challenging myself with complicated projects in order to overcome them through my 2 passions, programming and formal sciences.
 </div>
 
-<div>
+
 ![Google (Android 12L)](https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1f5-1f1ea.png)
-</div>
+
 &nbsp;&nbsp;
 
 ##  🧠 Languages and Tools:
