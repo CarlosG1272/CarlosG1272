@@ -77,3 +77,17 @@ Deploy Quote: https://carlosg1272.github.io/Quote-Generator/
 ![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote1.PNG)
 ![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote2.PNG)
 ![quote](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/quoteTip/quote3.PNG)
+
+# Contact
+Contact me and learn more about me: 
+<p>
+    <a href="https://www.linkedin.com/in/carlos-guerra-developer/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://github.com/CarlosG1272">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100081600548515">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="20" />
+    </a>
+<p/>
