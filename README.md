@@ -1,7 +1,9 @@
 # 👋 Welcome!
 
-![Alt Text](https://thumbs.gfycat.com/AgileThoseGrizzlybear-size_restricted.gif)
 
+<p align="center">
+  <img src="https://thumbs.gfycat.com/AgileThoseGrizzlybear-size_restricted.gif)" alt="animated" />
+</p>
 
 <div>
 20 years old Full stack developer to Perú, I am a critical thinker and problem solver from a mathematical point of view due to my current engineering background. I enjoy constantly learning and challenging myself with complicated projects in order to overcome them through my 2 passions, programming and formal sciences.
