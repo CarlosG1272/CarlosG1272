@@ -51,7 +51,7 @@ Deploy Front: https://individual-project-dogs-zeta.vercel.app/
 Food e-commerce developed with 4 other contributors that includes: product and category display, login, shopping cart, payment gateway, wish list, review posting, stock management, product and category creation forms, upload all kind of images, purchase history (orders), user management, edit profile, nested filters, voice search, autocomplete, dark theme.
 Front: React, Redux, Styled-components, Sass
 Back: MongoDB, mongoose, Express, cors, morgan, Paypal Api, Firebase, Cloudinary
-Deploy: https://food-fast-client.vercel.app/
+Deploy: https://e-commerce-food-s-universe-front.vercel.app/
 ![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food1.png)
 ![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food2.png)
 ![food](https://github.com/CarlosG1272/CarlosG1272/blob/main/assets/Main/Food3.png)
