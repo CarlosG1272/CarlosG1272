@@ -38,6 +38,8 @@ const mySkills = {
 # 💼 My proyects
 
 Below I show some projects where I demonstrate my skills: 
+https://personal-portfolio-carlos-guerra.vercel.app/
+
 ## Dog´s  App
 A dog App that included: card display, search, simple and nested filtering, sorting, nested form creation and persistent favorites list.
 Front:  React, Redux, CSS, Sass
